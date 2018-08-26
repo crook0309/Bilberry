@@ -1,0 +1,201 @@
+<!DOCTYPE html>
+<html lang="en">
+	<head>
+		<meta charset="UTF-8">
+		<meta name="viewport" content="width=device-width, initial-scale=1"> 
+		<meta name="description" content="Leo">
+		<title>Bilberry</title>
+		<link rel="stylesheet" type="text/css" href="css/style.css">
+		<link rel="stylesheet" type="text/css" href="css/fonts.css">
+		<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
+		<link rel="stylesheet" href="css/fontawesome/css/all.css">
+	</head>
+	<body>
+		<header>
+			<div class="navReal">О нас</div>
+			<div class="menu">
+				<h6><a href="#">Bilberry</a></h6>
+				<nav class="nav">
+					<input type="checkbox" class="toogle toogle-hidden" id="toogle-btn">
+					<label for="toogle-btn"></label>
+					<ul class="navUl">
+						<li><a href="#aboutId" title="AboutUs" id="aboutUs" class="navA" onclick="showMenu(event)">О нас</a></li>
+						<li><a href="#projectsId" title="Portfolio" id="portfolio" class="navA" onclick="showMenu(event)">Портфолио</a></li>
+						<li><a href="#customersId" title="Reviews" id="reviews" class="navA" onclick="showMenu(event)">Отзывы</a></li>
+						<li><a href="#contactsId" title="Contacts" id="contacts" class="navA" onclick="showMenu(event)">Контакты</a></li>
+					</ul>
+				</nav>				
+			</div>									
+			<div class="header1">
+				<h1><a href="#">Bilberry</a></h1>	
+				<p>Организация корпоративных мероприятий</p>
+				<input class="orderEvent" onclick="showForm(event)" type ="button" name="order" value="Заказать мероприятие">	
+			</div>					
+		</header>
+		<main>
+			<section class="about" id="aboutId">
+				<h2>немного о нас</h2>
+				<p class="aboutCom">Мы кампания занимающаяся проведения ивентов разных направлений. Опыт на рынке состоявляет около 8 лет. Около 150 постоянных, всегда довольных клиентов.</p>
+				<ul class="aboutUl">
+					<li onclick="showDemo(event)">HR&nbsp;мероприятия</li>
+					<li onclick="showDemo(event)">Фестивали</li>
+					<li onclick="showDemo(event)">Выставки</li>
+				</ul>
+				<div id="demo">
+					<img src="img/sec1PR.jpg" alt="HP" class="demoImg">
+					<p class="demoP">HR включает в себя много других функций: мотивация, обучение, развитие персонала, корпоративная культура и развитие HR-бренда. </p><br><br>
+					<span class="demoSpan">Важной функцией мероприятий является формирование корпоративной культуры отношения сотрудников к бренду, продукции, компании. Такое корпоративное событие поможет сплотить коллектив, установить неформальные связи, не просто повысить лояльность сотрудников, а сделать их адвокатами бренда</span>
+				</div>								
+			</section>
+			<section class="recentProjects" id="projectsId">
+				<div class="projectsHed">					
+					<h2>Последние проекты</h2>
+					<input class="orderEvent" onclick="showForm(event)" type="button" name="order" value="Заказать мероприятие">						
+				</div>
+				<p class="sec2p1">Несколько последних крупных проектов, проведенных нашей кампанией.</p>
+				<div class="projects">
+					<div class="projects1">
+						<img src="img/sec2.1.jpg" alt="project">
+						<h3>Ocean Plaza, Киев</h3>
+						<p>HR мероприятие, кампании Logitec. О формировании нового штата для Львовского офиса. Увлечение трафика клинтов. В соответствии с законом Ципфа, формирование имиджа специфицирует эмпирический рекламный макет.</p>
+						<div class="articl">
+							<a href="#" onclick="showEvent(event)" about="0">Открыть статью об ивенте</a>
+							<div class="triangle"></div>						
+						</div>
+					</div>
+					<div class="projects2">
+						<img src="img/sec2.2.jpg" alt="project">
+						<h3>Ocean Plaza, Киев</h3>
+						<p>HR мероприятие, кампании Logitec. О формировании нового штата для Львовского офиса. Увлечение трафика клинтов. В соответствии с законом Ципфа, формирование имиджа специфицирует эмпирический рекламный макет.</p>
+						<div class="articl">
+							<a href="#" onclick="showEvent(event)" about="1">Открыть статью об ивенте</a>
+							<div class="triangle"></div>						
+						</div>		
+					</div>
+					<div class="projects3">
+						<img src="img/sec2.3.jpg" alt="project">
+						<h3>Ocean Plaza, Киев</h3>
+						<p>HR мероприятие, кампании Logitec. О формировании нового штата для Львовского офиса. Увлечение трафика клинтов. В соответствии с законом Ципфа, формирование имиджа специфицирует эмпирический рекламный макет.</p>
+						<div class="articl">
+							<a href="#" onclick="showEvent(event)" about="2">Открыть статью об ивенте</a>
+							<div class="triangle"></div>
+						</div>						
+					</div>
+				</div>				
+			</section>
+			<section class="happyСustomers" id="customersId">
+				<div class="happyСustomerHed">
+					<h2>Наши счастливые клиенты</h2>
+					<h4 class="addReview" data-title="Нажмите, чобы оставить отзыв" onclick="showForm(event)">нам действительно важно ваше мнение о нас</h4>			
+				</div>
+				<div class="customersAll">
+					<div class="customer">
+						<img src="img/sec3.1.jpg" alt="foto1">
+						<div class="comentAll">
+							<div class="coment">Инвестиционный продукт раскручивает пресс-&nbsp;клиппинг. Организация службы маркетинга откровенно цинична. По мнению ведущих маркетологов, общество потребления продуцирует мониторинг активности.
+							</div>
+							<p>Сергей Сазонов,<span> юрист</span></p>
+						</div>
+					</div>
+					<div class="customer" >
+						<img src="img/sec3.2.jpg" alt="foto2">
+						<div class="comentAll">
+							<div class="coment">Инвестиционный продукт раскручивает пресc-&nbsp;клиппинг. Организация службы маркетинга откровенно цинична. По мнению ведущих маркетологов, общество потребления продуцирует мониторинг активности.
+							</div>
+							<p>Ольга Буланова,<span> ведущий менеджер</span></p>
+						</div>
+					</div>
+					<div class="customer">
+						<img src="img/sec3.3.jpg" alt="foto3">
+						<div class="comentAll">
+							<div class="coment">Инвестиционный продукт раскручивает пресс-&nbsp;клиппинг. Организация службы маркетинга откровенно цинична. По мнению ведущих маркетологов, общество потребления продуцирует мониторинг активности.
+							</div>
+							<p>Константин Лобойченко,<span> директор</span></p>
+						</div>	
+					</div>
+					<div class="customer">
+						<img src="img/sec3.4.jpg" alt="foto4">
+						<div class="comentAll">
+							<div class="coment">Инвестиционный продукт раскручивает <br>пресс-&nbsp;клиппинг. Организация службы маркетинга откровенно цинична. По мнению ведущих маркетологов, общество потребления продуцирует мониторинг активности.
+							</div>
+							<p>Стас Марвин,<span> ведущий</span></p>
+						</div>							
+						
+					</div>
+				</div>
+			</section>
+			<template id="webForm">
+				<div class="common">
+					<div  id="wrap" class="wrap"></div>
+					<div id="window" class="window">
+						<img class="close" onclick="closeForm()" src="img/close.png" alt="close">
+						<fieldset>
+							<legend id ="legendForm">Заказать мероприятиe</legend>
+							<form name="information" action="#" method="post">
+								<input type="text" name="name" id="nameAdd" placeholder="Ваше Имя">
+								<input type="email" name="email" placeholder="Ваш Email" id="emeilAdd">
+								<select name="Event" id="selForm" required>
+									<option value="">Выбрать мероприятиe</option>
+									<option>HR мероприятиe</option>
+									<option>Фестиваль</option>
+									<option>Выставка</option>
+								</select>						
+								<textarea placeholder="Комментарий" id="areaForm"></textarea>
+								<button type="button"   name="submit" id="submitForm" onclick="sendInfo(event)"></button>
+							</form>
+						</fieldset>	
+						<input type="button"  name="showAll" id="showAll" onclick="showAll(event)" value="Показать все отзывы">	
+					</div>
+				</div>			
+			</template>
+			<template id="allCont">
+				<div id="common" class="common">
+					<div  id="wrapCont" class="wrap"></div>
+					<div id="all" class="windowAll">
+						<img class="close" onclick="closeForm()" src="img/close.png" alt="close">
+						<a href="home" class="scrollup">Наверх</a>	
+					</div>				
+				</div>			
+			</template>	
+		</main>
+		<footer id="contactsId">
+			<div>
+				<h5>Контакты</h5>
+				<h4>оставьте ваши данные и мы с вами свяжемся</h4>				
+			</div>
+			<form name="information" action="#" method="post">
+				<input type="text" name="name" placeholder="Ваше Имя" id="nameEnter">
+				<input type="email" name="email" placeholder="Ваш Email" id="emailEnter">
+				<button type="button"  name="submit" onclick="addPotentialClients(event)">Отправить&nbsp;данные</button>
+			</form>
+				<div class="info">
+					<div class="circle">
+						<p class="address">Адреc</p>
+						<p class="city">Город Харьков</p>
+						<p class="city">Ул. Сумская 56</p>
+						<p class="city">Номер: <a href="tel:+380734642733" title="number">(073) 464 27 33</a></p>
+						<a href="mailto:bilberry123.com" class="email">bilberry123.com</a>
+						<div class="logo"></div>
+					</div>
+				</div>			
+			<nav class="navFoot">
+				<ul class="ulFoot">
+					<li><a href="#aboutId"  title="AboutUs" class="navAFoot" onclick="showMenu(event)">О нас</a></li>
+					<li><a href="#projectsId" title="Portfolio" class="navAFoot" onclick="showMenu(event)">Портфолио</a></li>
+					<li><a href="#customersId" title="Reviews" class="navAFoot" onclick="showMenu(event)">Отзывы</a></li>
+					<li><a href="#contactsId" title="Contacts" class="navAFoot" onclick="showMenu(event)">Контакты</a></li>
+				</ul>
+			</nav>	
+			<p class="phone"><img src="img/phone.jpg" alt="phone"><a class="tel" href="tel:+380734642733" title="number">(073) 464 27 33</a>
+			</p>
+			<a href="home" class="scrollup">Наверх</a>	
+		</footer>	
+	<script src="js/script.js"></script> 	
+	</body>
+</html>
+
+
+<!-- 
+	
+
+-->

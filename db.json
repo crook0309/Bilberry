@@ -1,0 +1,276 @@
+{
+  "demo": [
+    {
+      "src": "img/sec1PR.jpg",
+      "text": "HR включает в себя много других функций: мотивация, обучение, развитие персонала, корпоративная культура и развитие HR-бренда.",
+      "additionalText": "Важной функцией мероприятий является формирование корпоративной культуры отношения сотрудников к бренду, продукции, компании. Такое корпоративное событие поможет сплотить коллектив, установить неформальные связи, не просто повысить лояльность сотрудников, а сделать их адвокатами бренда"
+    },
+    {
+      "src": "img/fest.jpg",
+      "text": "Фестиваль для Вас - это любимое занятие или бизнес?",
+      "additionalText": "И история эта не про бизнес. Организует его на протяжении шести лет команда энтузиастов, которую объединяет желание развивать рекламный рынок региона.Более того, работа над фестивалем – это не основное занятие организаторов. У каждого из нас есть официальная работа, поэтому фестивалю мы посвящаем не все свое время. Хотя, нам бы хотелось, чтобы его организация стала нашей основной деятельностью. С другой стороны, это и не хобби, потому что организация фестиваля – серьезная работа, которая требует большой самоотдачи, много времени, ресурсов."
+    },
+    {
+      "src": "img/еxhibition.jpg",
+      "text": "Выставка — это публичная демонстрация достижения тех или иных отраслей материальной или духовной сферы общества, основная цель которой — обмен идеями, теориями, знаниями при одновременном проведении коммерческой работы.",
+      "additionalText": "Важной функцией мероприятий является формирование корпоративной культуры отношения сотрудников к бренду, продукции, компании. Такое корпоративное событие поможет сплотить коллектив, установить неформальные связи, не просто повысить лояльность сотрудников, а сделать их адвокатами бренда"
+    }
+  ],
+  "orders": [
+    {
+      "date": "21.08.2018",
+      "time": "20:57:38",
+      "name": "homework",
+      "body": "",
+      "email": "crook0309@gmail.com",
+      "id": 13
+    },
+    {
+      "date": "21.08.2018",
+      "time": "21:17:00",
+      "name": "homework",
+      "email": "crook0309@gmail.com",
+      "body": "qqqqqqqqqqqqqqqqqqqqqqqqqq",
+      "id": 14
+    },
+    {
+      "date": "21.08.2018",
+      "time": "21:17:57",
+      "name": "homework",
+      "email": "crook0309@gmail.com",
+      "body": "aaaaaaaaaaaaaaaaaaa",
+      "id": 15
+    },
+    {
+      "date": "21.08.2018",
+      "time": "21:19:28",
+      "name": "homework",
+      "email": "crook0309@gmail.com",
+      "body": "Фестиваль  qqqqqqqqqqqqqqqqqqqqqq",
+      "id": 16
+    },
+    {
+      "date": "21.08.2018",
+      "time": "21:40:22",
+      "name": "homework",
+      "email": "crook0309@gmail.com",
+      "body": "HR мероприятиe  text",
+      "id": 17
+    },
+    {
+      "date": "22.08.2018",
+      "time": "16:43:47",
+      "name": "homework",
+      "email": "crook0309@gmail.com",
+      "body": "Фестиваль  йййййййййййййййййй",
+      "id": 18
+    },
+    {
+      "date": "26.08.2018",
+      "time": "13:49:48",
+      "name": "",
+      "email": "",
+      "body": "  ",
+      "id": 19
+    },
+    {
+      "date": "26.08.2018",
+      "time": "13:49:53",
+      "name": "",
+      "email": "",
+      "body": "HR мероприятиe  ",
+      "id": 20
+    },
+    {
+      "date": "26.08.2018",
+      "time": "13:49:59",
+      "name": "",
+      "email": "",
+      "body": "  ",
+      "id": 21
+    },
+    {
+      "date": "26.08.2018",
+      "time": "13:50:04",
+      "name": "",
+      "email": "",
+      "body": "Фестиваль  ",
+      "id": 22
+    },
+    {
+      "date": "26.08.2018",
+      "time": "13:50:14",
+      "name": "",
+      "email": "",
+      "body": "  ",
+      "id": 23
+    },
+    {
+      "date": "26.08.2018",
+      "time": "13:50:19",
+      "name": "",
+      "email": "",
+      "body": "HR мероприятиe  ",
+      "id": 24
+    },
+    {
+      "date": "26.08.2018",
+      "time": "14:04:36",
+      "name": "",
+      "email": "",
+      "body": "  ",
+      "id": 25
+    },
+    {
+      "date": "26.08.2018",
+      "time": "14:13:14",
+      "name": "fhgdf",
+      "email": "rrrrrrrrrrr@com.ua",
+      "body": "  ",
+      "id": 26
+    },
+    {
+      "date": "26.08.2018",
+      "time": "14:13:21",
+      "name": "fhgdf",
+      "email": "rrrrrrrrrrr@com.ua",
+      "body": "HR мероприятиe  ",
+      "id": 27
+    }
+  ],
+  "reviews": [
+    {
+      "date": "21.08.2018",
+      "time": "21:41:03",
+      "name": "homework",
+      "email": "crook0309@gmail.com",
+      "body": "отзыв",
+      "id": 1
+    },
+    {
+      "date": "22.08.2018",
+      "time": "20:59:24",
+      "name": "Сергей Сазонов, юрист",
+      "email": "",
+      "body": "Инвестиционный продукт раскручивает пресс-клиппинг. Организация службы маркетинга откровенно цинична. По мнению ведущих маркетологов, общество потребления продуцирует мониторинг активности.",
+      "id": 2
+    },
+    {
+      "date": "22.08.2018",
+      "time": "21:01:51",
+      "name": "Ольга Буланова, ведущий менеджер",
+      "email": "wwww@com.ua",
+      "body": "Инвестиционный продукт раскручивает пресc-клиппинг. Организация службы маркетинга откровенно цинична. По мнению ведущих маркетологов, общество потребления продуцирует мониторинг активности.",
+      "id": 3
+    },
+    {
+      "date": "22.08.2018",
+      "time": "21:03:17",
+      "name": "Константин Лобойченко,  директор",
+      "email": "rrrrrrrrrrr@com.ua",
+      "body": "Инвестиционный продукт раскручивает пресс-клиппинг. Организация службы маркетинга откровенно цинична. По мнению ведущих маркетологов, общество потребления продуцирует мониторинг активности.",
+      "id": 4
+    },
+    {
+      "date": "22.08.2018",
+      "time": "21:05:19",
+      "name": "Стас Марвин, ведущий</span>",
+      "email": "ssssssssssss@com.ua",
+      "body": "Инвестиционный продукт раскручивает пресс-клиппинг. Организация службы маркетинга откровенно цинична. По мнению ведущих маркетологов, общество потребления продуцирует мониторинг активности.",
+      "id": 5
+    }
+  ],
+  "potentialclients": [
+    {
+      "date": "1",
+      "time": "1",
+      "name": "1",
+      "email": "1",
+      "id": 1
+    },
+    {
+      "name": "victor",
+      "email": "crook0309@gmail.com",
+      "submit": "",
+      "id": 2
+    },
+    {
+      "name": "ddddd",
+      "email": "rrrrrrrrrrr@com.ua",
+      "submit": "",
+      "id": 3
+    },
+    {
+      "date": "22.08.2018",
+      "time": "22:26:31",
+      "name": "homework",
+      "email": "crook0309@gmail.com",
+      "id": 4
+    },
+    {
+      "date": "22.08.2018",
+      "time": "22:27:50",
+      "name": "Ольга Буланова, ведущий менеджер",
+      "email": "qqqqq@com.ua",
+      "id": 5
+    },
+    {
+      "date": "26.08.2018",
+      "time": "14:32:26",
+      "name": "cvb",
+      "email": "nfbv",
+      "id": 6
+    },
+    {
+      "date": "26.08.2018",
+      "time": "14:33:45",
+      "name": "www",
+      "email": "wwww@com.ua",
+      "id": 7
+    },
+    {
+      "date": "26.08.2018",
+      "time": "14:34:08",
+      "name": "www",
+      "email": "wwww@com.ua",
+      "id": 8
+    },
+    {
+      "date": "26.08.2018",
+      "time": "14:35:12",
+      "name": "qqq",
+      "email": "qqqqq@com.ua",
+      "id": 9
+    },
+    {
+      "date": "26.08.2018",
+      "time": "14:36:20",
+      "name": "bkhjl",
+      "email": "rrrrrrrrrrr@com.ua",
+      "id": 10
+    }
+  ],
+  "events": [
+    {
+      "0": [
+        "https://avon-registration.com.ua/wp-content/uploads/2017/08/conference-avon-ukraine-20.jpg",
+        "https://avon-registration.com.ua/wp-content/uploads/2017/08/konferencijz-avon-ukraina-2017.jpg",
+        "https://www.polymedia.ru/upload/iblock_900__CROP_1-1__/efd/IMG_6888.jpg"
+      ],
+      "1": [
+        "https://itc.ua/wp-content/uploads/2018/01/DevGAMM_Kyiv_2018_interview_05.jpg",
+        "https://itc.ua/wp-content/uploads/2018/01/DevGAMM_Kyiv_2018_interview_03.jpg",
+        "https://itc.ua/wp-content/uploads/2018/01/DevGAMM_Kyiv_2018_interview_04.jpg"
+      ],
+      "2": [
+        "http://biznesalert.pl/wp-content/cache/thumbnails/2018/01/forum-europa-ukraina-2-760x2000.jpg?x28732",
+        "http://vgolos.com.ua/media/gallery/full/f/o/forum-europa-ukraina-1.jpg",
+        "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSsXYv0dIAl1FtRvTef5Nl_WYwQY6_7iH_ywyZsLuBuwY3CYj2K",
+        "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQzt8yz_ytsKTxH0DvCeT9vIMa_pVjTsj3gRxJaY8N8sNGppPXH",
+        "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS1LBepBTS8AzG-9H3gIZokoDQBbBaaIR5evOTbUQm4xK46coZZ",
+        "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRftfY9e20cjB6WFp7Z9-7QfP5bYrUf-CGDZ-FyNK2OtDpV-Ddx",
+        "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR_zNxoMKdGflsPaQSK1eUtsGfll6HAhYoboKX38g8lszc-N7iZ"
+      ]
+    }
+  ]
+}
